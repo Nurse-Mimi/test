@@ -1,9 +1,10 @@
 h1 {
     color: #ff00;
-
+    font-size: large;
 }
 
 p{
     color: #000;
-    
+    height: 150px;
+    font-size: 80px;
 }
