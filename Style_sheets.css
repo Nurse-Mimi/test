@@ -1,10 +1,11 @@
 h1 {
     color: #ff000f;
     font-size: large;
+    background-color: aquamarine;
 }
 
 p{
     color: #0000f0;
-    height: 150px;
-    font-size: 80px;
+    font-weight: bolder;
+    font-size: xx-large;
 }
